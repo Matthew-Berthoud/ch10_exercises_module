@@ -1,3 +1,3 @@
 module github.com/Matthew-Berthoud/ch10_exercises_module
 
-go 1.18
+go 1.24
